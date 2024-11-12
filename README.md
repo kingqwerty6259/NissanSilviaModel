@@ -1,7 +1,7 @@
 # NissanSilviaModel
 ![image](https://github.com/user-attachments/assets/c075ab0f-58ea-4f5a-ae46-749091c3f567)
 
-This repository contains a 3D model of a Nissan Silvia created in Blender 4.0. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
+This repository contains a 3D model of a Nissan Silvia created in Blender. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
 
 ## Files and Structure
 
